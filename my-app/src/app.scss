@@ -5,11 +5,16 @@ $gold: gold;
 h1 {
   color: $primary;
 }
+h2 {
+  color: $secondary;
+}
 
 p {
   color: $secondary;
 }
-
+span {
+  color: $gold;
+}
 button {
   background-color: $gold;
 }
