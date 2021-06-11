@@ -1,0 +1,15 @@
+$primary: red;
+$secondary: blue;
+$gold: gold;
+
+h1 {
+  color: $primary;
+}
+
+p {
+  color: $secondary;
+}
+
+button {
+  background-color: $gold;
+}
